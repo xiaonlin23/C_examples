@@ -1,10 +1,35 @@
-#outer div ul .nav a {
-    background-color: powderblue;
-    padding: 5px;
-    display: inline-block;
-    margin-bottom: 10px;
-  }
+section {
+    margin-left: 10px;
+    margin-top: 5px;
+    padding-left: 20px;
+    width: 300px;
+    background-color: rgb(86, 14, 14);
+    border: 8px solid rgb(113, 19, 19);
+    border-radius: 1em;
+    border-top-right-radius: 10% 30%;
+    color: white;
+}
 
-  #outer #ineer .nav a {
-    color: rebeccapurple;
-  }  
+.first {
+    color: white;
+    border: 8px solid rgb(113, 19, 19);
+    background-color: rgb(86, 14, 14);
+}
+
+.second {
+    color: rgb(10, 231, 136);
+    border: 8px solid rgb(6, 58, 132);
+    background-color: rgb(15, 75, 118);
+}
+
+.third {
+    color: rgb(172, 24, 247);
+    border: 8px solid rgb(110, 137, 14);
+    background-color: rgb(129, 147, 11);
+}
+
+.forth {
+    color: rgb(2, 2, 2);
+    border: 8px solid rgb(145, 104, 22);
+    background-color: rgb(168, 113, 17);
+}
